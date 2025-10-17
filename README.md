@@ -15,12 +15,12 @@ Hệ thống điểm số: Ghi điểm mỗi khi phá được một viên gạc
 
 Mạng sống: Người chơi có một số mạng nhất định, game sẽ kết thúc khi hết mạng.
 
-Hiển thị: Tất cả được hiển thị trên màn hình LCD/OLED.
+Hiển thị: Tất cả được hiển thị trên màn hình LCD.
 
 🛠️ Phần cứng yêu cầu
-Board phát triển Lumi: (Ví dụ: Lumi LM-S4) với vi điều khiển trung tâm (ví dụ: STM32).
+Board phát triển Lumi.
 
-Màn hình: Màn hình LCD hoặc OLED (ví dụ: LCD 1.8 inch SPI ST7735).
+Màn hình: Màn hình LCD.
 
 Nút nhấn: Tối thiểu 2 nút nhấn để điều khiển trái/phải.
 
